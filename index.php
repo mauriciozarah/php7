@@ -1,6 +1,6 @@
 <?php
 
-//Orientação à objetos
+//porcentagem
 
 $valor = 10;
 
