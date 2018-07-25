@@ -1,0 +1,5 @@
+require obriga que o arquivo exista se nao existir da um erro fatal e para tudo
+include da erro mas nao para o script, caso nao haja o arquivos ele vai no php.ini php_path para procurar.
+
+include tambem pode adicionar scripts de outros sites por isso eh perigoso
+ex.? include(~arquivo.php)?$_GET
