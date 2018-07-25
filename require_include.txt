@@ -3,3 +3,5 @@ include da erro mas nao para o script, caso nao haja o arquivos ele vai no php.i
 
 include tambem pode adicionar scripts de outros sites por isso eh perigoso
 ex.? include(~arquivo.php)?$_GET
+
+No php7 não há mais erros fatais é o usado o try catch.
